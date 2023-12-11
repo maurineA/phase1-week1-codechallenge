@@ -1,12 +1,12 @@
-# CODE-CHALLENGE-PHASE2-WEEK3
+# PHASE3-WEEK1-CODECHALLENGE
 
-Is a React application that allow users to browse through a list of robots, view a robot's details, and, enlist a bot into their army, NOVEMBER 26/2023
+Is a python challenges consisting of three questions converting a 12-hour time to 24-hour time,the second one is a function, which takes three integers a, b, and c as arguments, and returns True if exactly two and the third is return the highest value of consonant substrings. NOVEMBER 26/2023
 
 By Maurine Wambui
 
 # Description
 
-Is a React application that allow users to browse through a list of robots, view a robot's details, and, enlist a bot into their army
+Is a python challenges consisting of three questions converting a 12-hour time to 24-hour time. The second one is a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise. and the third is return the highest value of consonant substrings.
 
 # How to Use
 

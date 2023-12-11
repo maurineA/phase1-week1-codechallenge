@@ -6,46 +6,39 @@ By Maurine Wambui
 
 # Description
 
-Is a python challenges consisting of three questions converting a 12-hour time to 24-hour time. The second one is a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise. and the third is return the highest value of consonant substrings.
+Is a python challenges consisting of three questions Converting a 12-hour time like "8:30 am" or "8:30 pm" to 24-hour time (like "0830" or "2030"). The second one is a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise. The third is returning the highest value of consonant substrings, given a lowercase string that has alphabetic characters only and no spaces.
 
 # How to Use
 
 <ul>
-<li>use this link https://maurinea.github.io/code-challenge-phase2-week2/</li>
-<li>The user is able to view the bots and their details</li>
-<li>The user is able to add a bot to the army collection by clicking the bot image</li>
-<li>The user is able to delete the bot from the server and the army</li>
-
-
+<li>Test the code in the python environment shell
+      <li>python3/lib/clockchallenge/clock.py</li>
+      <li>python3/lib/consonantvalues/consonant.py</li>
+      <li>python3/lib/numbers/numbers.py</li>
+</li>
 
 </ul>
 
 # Requirements
 
 <ul>
-<li>A computer with npm terminal, a bash terminal and node installed.</li>
+<li>A computer with python environment, pipenv and pipenvshell</li>
 <li>Access to the internet.</li>
 </ul>
 
 # Installation Process
 
 <ul>
-<li>Run https://maurinea.github.io/code-challenge-phase2-week2/  or<li>
-<li>Clone this repository using
-
-  git clone https://github.com/maurineA/code-challenge-phase2-week2/
-or by downloading a ZIP file of the code.</li>
-<li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
-<li>Navigate to the project folder on your bash terminal.</li>
-<li>Start the json server json-server --watch db.json --port 8001</li>
-<li>Start the server npm start</li>
+<li>git clone https://github.com/maurineA/phase3-week1-codechallenge</li>
+<li>open the directory on visual studio</li>
+<li>Create the python environment</li>
+<li>install the pipenv</li>
+<li>activate the shell</li>
 </ul>
 
   # Technologies Used
 <ul>
-<li>REACT</li>
-<li>JSX</li>
-<li>Node Runtime Environment</li>
+<li>Python</li>
 </ul>
 
 

@@ -10,3 +10,5 @@ def consonant (s):
 
     #calculate the consonant substring and maximum
     return max(sub_string(sub) for sub in substrings)
+
+print(consonant("zodiacs"))

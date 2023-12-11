@@ -8,6 +8,8 @@ def clock(period, hour, minute):
     return f"{hour:02d}{minute:02d}"
 
 
+print(clock("am", 8, 30))
+print(clock("pm", 8, 30))
 
 
 

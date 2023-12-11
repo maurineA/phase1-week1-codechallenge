@@ -6,4 +6,7 @@ def consonant (s):
     consonant_str = ''.join(char for char in s if char not in 'aeiou')
 
     #split into substring consonant
-    consonant_substrings = consonant_str.split('a') 
+    substrings = consonant_str.split('a') 
+
+    #calculate the consonant substring and maximum
+    return max(sub_string(sub) for sub in substrings)

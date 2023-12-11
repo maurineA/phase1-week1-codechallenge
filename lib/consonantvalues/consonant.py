@@ -4,3 +4,6 @@ def consonant (s):
     
     #remove vowels
     consonant_str = ''.join(char for char in s if char not in 'aeiou')
+
+    #split into substring consonant
+    consonant_substrings = consonant_str.split('a') 

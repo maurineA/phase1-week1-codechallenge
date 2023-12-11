@@ -10,6 +10,8 @@ def clock(period, hour, minute):
 
 print(clock("am", 8, 30))
 print(clock("pm", 8, 30))
+print(clock("am", 12, 15))
+print(clock("pm", 12, 15))
 
 
 
